@@ -1,5 +1,5 @@
 {
-    "default_model": "realistic_freedom.safetensors",
+    "default_model": "Fully_RealXL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -37,7 +37,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "realistic_freedom.safetensors": "https://civitai.com/api/download/models/270633"
+        "Fully_RealXL.safetensors": "https://civitai.com/api/download/models/348028"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
