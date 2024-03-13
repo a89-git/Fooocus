@@ -1,5 +1,5 @@
 {
-    "default_model": "Fully_RealXL.safetensors",
+    "default_model": "Colossus_projectXL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -37,7 +37,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "Fully_RealXL.safetensors": "https://civitai.com/api/download/models/348028?token=99cdccc195dd79cdb24fd0a91cfb09d2"
+        "Colossus_projectXL.safetensors": "https://civitai.com/api/download/models/355884"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
