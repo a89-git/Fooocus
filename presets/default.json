@@ -37,7 +37,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "Reality_edgeXL_Turbo.safetensors": "https://civitai.com/api/download/models/356472"
+        "Reality_edgeXL_Turbo.safetensors": "https://civitai.com/api/download/models/356472?token=99cdccc195dd79cdb24fd0a91cfb09d2"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
