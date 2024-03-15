@@ -1,5 +1,5 @@
 {
-    "default_model": "Reality_edgeXL_Turbo.safetensors",
+    "default_model": "WildCard.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -37,7 +37,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "Reality_edgeXL_Turbo.safetensors": "https://civitai.com/api/download/models/356472?token=99cdccc195dd79cdb24fd0a91cfb09d2"
+        "WildCard.safetensors": "https://civitai.com/api/download/models/360292?token=99cdccc195dd79cdb24fd0a91cfb09d2"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
