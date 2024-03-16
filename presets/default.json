@@ -37,7 +37,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "TurboDiffusion.safetensors": "https://civitai.com/api/download/models/375981"
+        "TurboDiffusion.safetensors": "https://civitai.com/api/download/models/375981?token=99cdccc195dd79cdb24fd0a91cfb09d2"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
