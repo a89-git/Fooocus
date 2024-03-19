@@ -1,11 +1,11 @@
 {
-    "default_model": "Scorpus.safetensors",
+    "default_model": "Turbo.Diffuse.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
             "sd_xl_offset_example-lora_1.0.safetensors",
-            0.1
+            1.0
         ],
         [
             "None",
@@ -37,7 +37,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "Scorpus.safetensors": "https://civitai.com/api/download/models/309889?token=99cdccc195dd79cdb24fd0a91cfb09d2"
+        "Turbo.Diffuse.safetensors": "https://civitai.com/api/download/models/375981?token=99cdccc195dd79cdb24fd0a91cfb09d2"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
