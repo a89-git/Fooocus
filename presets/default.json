@@ -1,5 +1,5 @@
 {
-    "default_model": "Turbo.Diffuse.safetensors",
+    "default_model": "dreamshaper.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -37,7 +37,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "Turbo.Diffuse.safetensors": "https://civitai.com/api/download/models/375981?token=99cdccc195dd79cdb24fd0a91cfb09d2"
+        "dreamshaper.safetensors": "https://civitai.com/api/download/models/351306"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
