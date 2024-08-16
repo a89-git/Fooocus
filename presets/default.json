@@ -1,5 +1,5 @@
 {
-    "default_model": "SDXXL.safetensors",
+    "default_model": "RealViz4.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -41,7 +41,7 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": 40,
     "checkpoint_downloads": {
-        "SDXXL.safetensors": "https://huggingface.co/KamCastle/sdXXXL/resolve/main/sdxxxl_v30.safetensors"
+        "RealViz4.safetensors": "https://huggingface.co/SG161222/RealVisXL_V4.0/resolve/main/RealVisXL_V4.0.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
