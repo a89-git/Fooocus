@@ -1,5 +1,5 @@
 {
-    "default_model": "ZavyChroma9.safetensors",
+    "default_model": "J10.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -41,7 +41,7 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": 40,
     "checkpoint_downloads": {
-        "ZavyChroma9.safetensors": "https://civitai.com/api/download/models/641087?token=a7219a21888e858208bdc1a62084c1a2"
+        "J10.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
