@@ -1,5 +1,5 @@
 {
-    "default_model": "New_Reality_4.safetensors",
+    "default_model": "EpiCJourney_XL.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -41,7 +41,7 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": 40,
     "checkpoint_downloads": {
-        "New_Reality_4.safetensors": "https://huggingface.co/misri/newrealityxlAllInOne_Newreality40/resolve/main/newrealityxlAllInOne_Newreality40.safetensors"
+        "EpiCJourney_XL.safetensors": "https://civitai.com/api/download/models/663882?token=54036c7070cece8cf74e636286b7af06"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
