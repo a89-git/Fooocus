@@ -41,7 +41,7 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": 40,
     "checkpoint_downloads": {
-        "Juggernaut_XI.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XI-v11/resolve/main/Juggernaut-XI-byRunDiffusion.safetensors"
+        "Juggernaut_XI.safetensors": "https://civitai.com/api/download/models/782002?token=54036c7070cece8cf74e636286b7af06"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
