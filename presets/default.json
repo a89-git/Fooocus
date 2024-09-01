@@ -1,5 +1,5 @@
 {
-    "default_model": "Afrodite_XL.safetensors",
+    "default_model": "Juggernaut_XI.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -41,7 +41,7 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": 40,
     "checkpoint_downloads": {
-        "Afrodite_XL.safetensors": "https://civitai.com/api/download/models/450105?token=54036c7070cece8cf74e636286b7af06"
+        "Juggernaut_XI.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XI-v11/resolve/main/Juggernaut-XI-byRunDiffusion.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
