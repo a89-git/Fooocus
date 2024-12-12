@@ -1,5 +1,5 @@
 {
-    "default_model": "Art_universe6.safetensors",
+    "default_model": "ArtUnivers6.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -41,7 +41,7 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": 30,
     "checkpoint_downloads": {
-        "Art_universe6.safetensors": "https://civitai.com/api/download/models/968318?token=55949e56b298767db9ad274861e6b6b6"
+        "ArtUnivers6.safetensors": "https://civitai.com/api/download/models/968318?token=55949e56b298767db9ad274861e6b6b6"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
