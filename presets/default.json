@@ -41,12 +41,12 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": 30,
     "checkpoint_downloads": {
-        "Art_universe6.safetensors": "https://civitai.com/api/download/models/968318?token=54036c7070cece8cf74e636286b7af06"
+        "Art_universe6.safetensors": "https://civitai.com/api/download/models/968318?token=55949e56b298767db9ad274861e6b6b6"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors"
-        "palvin.safetensors": "https://civitai.com/api/download/models/132266?token=54036c7070cece8cf74e636286b7af06"
+        "palvin.safetensors": "https://civitai.com/api/download/models/132266?token=55949e56b298767db9ad274861e6b6b6"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
