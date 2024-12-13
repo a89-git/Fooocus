@@ -1,5 +1,5 @@
 {
-    "default_model": "ZavyChroma10.safetensors",
+    "default_model": "New_Reality_XLPRO.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -39,9 +39,9 @@
     "default_styles": [
     ],
     "default_aspect_ratio": "832*1216",
-    "default_overwrite_step": 40,
+    "default_overwrite_step": 30,
     "checkpoint_downloads": {
-        "ZavyChroma10.safetensors": "https://civitai.com/api/download/models/916744?token=55949e56b298767db9ad274861e6b6b6"
+        "New_Reality_XLPRO.safetensors": "https://civitai.com/api/download/models/690310?token=55949e56b298767db9ad274861e6b6b6"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
