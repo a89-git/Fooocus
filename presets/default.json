@@ -41,7 +41,7 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": 30,
     "checkpoint_downloads": {
-        "RedCraft.safetensors": "https://civitai.com/api/download/models/1137634?token=55949e56b298767db9ad274861e6b6b6"
+        "RedCraft.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/289798/relustionXLForge.jOgG.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22redcraftCADSCommercial_relustionXL.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20241217/us-east-1/s3/aws4_request&X-Amz-Date=20241217T060640Z&X-Amz-SignedHeaders=host&X-Amz-Signature=44c0f3043f38290763a4a31261af9b8ece7a46faa3034e929595cc3478199b68?token=55949e56b298767db9ad274861e6b6b6"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
