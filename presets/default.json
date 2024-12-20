@@ -1,5 +1,5 @@
 {
-    "default_model": "Juggernaut_XL_FP8.safetensors",
+    "default_model": "Xai_art.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -39,9 +39,9 @@
     "default_styles": [
     ],
     "default_aspect_ratio": "832*1216",
-    "default_overwrite_step": 30,
+    "default_overwrite_step": 45,
     "checkpoint_downloads": {
-        "Juggernaut_XL_FP8.safetensors": "https://civitai.com/api/download/models/1179908?token=55949e56b298767db9ad274861e6b6b6"
+        "Xai_art.safetensors": "https://civitai.com/api/download/models/1181890?token=55949e56b298767db9ad274861e6b6b6"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
