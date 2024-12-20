@@ -1,5 +1,5 @@
 {
-    "default_model": "Fully Real.safetensors",
+    "default_model": "DreamshaperXL_F8.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -39,9 +39,9 @@
     "default_styles": [
     ],
     "default_aspect_ratio": "832*1216",
-    "default_overwrite_step": 45,
+    "default_overwrite_step": 10,
     "checkpoint_downloads": {
-        "Fully Real.safetensors": "https://civitai.com/api/download/models/1181754?token=55949e56b298767db9ad274861e6b6b6"
+        "DreamshaperXL_F8.safetensors": "https://civitai.com/api/download/models/1180155?token=55949e56b298767db9ad274861e6b6b6"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
