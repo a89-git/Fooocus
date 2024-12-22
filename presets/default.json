@@ -35,7 +35,7 @@
     "default_scheduler": "sgm_uniform",
     "default_performance": "Quality",
     "default_prompt": "(myruti:1.2),,<lora:MY:1.4>,high resolution,highest detailed:1.2, sharp focus:1.2, realistic:1.3, ultra high resolution textures:1.2.",
-    "default_prompt_negative": "3d, painting, illustration, drawing, art, watercolor, oil painting, anime, 2d, concept art, blurry, unsharp.",
+    "default_prompt_negative": "3d, CG, painting, illustration, drawing, art, watercolor, oil painting, anime, 2d, concept art, blurry, unsharp, deformed, (((poorly drawn face))), (((poorly drawn eyes))), (((poorly drawn lips))),(((poorly drawn pores skin))), (((ugly))), (((poorly drawn metal texture))), (((poorly drawn mechanical element))), ((bad fingers)), (( extra fingers)), (((midget))).",
     "default_styles": [
     ],
     "default_aspect_ratio": "832*1216",
