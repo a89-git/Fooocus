@@ -1,5 +1,5 @@
 {
-    "default_model": "zavyChroma_F8.safetensors",
+    "default_model": "SDXKHK.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -41,7 +41,7 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": 30,
     "checkpoint_downloads": {
-         "zavyChroma_F8.safetensors": "https://civitai.com/api/download/models/1223956?token=55949e56b298767db9ad274861e6b6b6"
+         "SDXKHK.safetensors": "https://civitai.com/api/download/models/1219717?token=55949e56b298767db9ad274861e6b6b6"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
