@@ -1,5 +1,5 @@
 {
-    "default_model": "Cyberealistic.safetensors",
+    "default_model": "CAraminta_GF.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -41,12 +41,12 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": 30,
     "checkpoint_downloads": {
-         "Cyberealistic.safetensors": "https://civitai.com/api/download/models/1198781?token=55949e56b298767db9ad274861e6b6b6"
+         "Araminta_GF.safetensors": "https://civitai.com/api/download/models/1192070?token=55949e56b298767db9ad274861e6b6b6"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
-        "JC.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/old_JC_FLUX.safetensors",
+        "BP.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/barxpalvin.safetensors",
         "mech2.safetensors": "https://civitai.com/api/download/models/455875?token=55949e56b298767db9ad274861e6b6b6"
     },
     "previous_default_models": [
