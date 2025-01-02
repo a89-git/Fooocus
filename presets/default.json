@@ -42,7 +42,7 @@
     "default_overwrite_step": 30,
     "checkpoint_downloads": {
          "CyberReality.safetensors": "https://civitai.com/api/download/models/1198781?token=55949e56b298767db9ad274861e6b6b6",
-         "JuggernautXI.safetensors": "https://civitai.com/api/download/models/782002?token=55949e56b298767db9ad274861e6b6b6"
+         "JuggernautX.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/J-X-N.safetensors"
 
     },
     "embeddings_downloads": {},
