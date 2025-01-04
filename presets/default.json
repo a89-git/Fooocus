@@ -50,7 +50,6 @@
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
         "BP.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/brxpalvin.safetensors",
         "BP_half.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/barxpalvin_half.safetensors",
-        "JA.safetensors": "https://civitai.com/api/download/models/289324?token=55949e56b298767db9ad274861e6b6b6",
         "mech2.safetensors": "https://civitai.com/api/download/models/455875?token=55949e56b298767db9ad274861e6b6b6"
     },
     "previous_default_models": [
