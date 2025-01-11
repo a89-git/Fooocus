@@ -45,13 +45,16 @@
          "JuggernautXI.safetensors": "https://civitai.com/api/download/models/782002?token=55949e56b298767db9ad274861e6b6b6"
 
     },
-    "embeddings_downloads": {},
+    "embeddings_downloads": {
+        "cara.safetensors": "https://civitai.com/api/download/models/56113?token=55949e56b298767db9ad274861e6b6b6",
+    },
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
         "BP.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/brxpalvin.safetensors",
         "BP_half.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/barxpalvin_half.safetensors",
         "jenxcnnlly.safetensors": "https://civitai.com/api/download/models/672250?token=55949e56b298767db9ad274861e6b6b6",
         "alba.safetensors": "https://civitai.com/api/download/models/372986?token=55949e56b298767db9ad274861e6b6b6",
+        "alexdadd.safetensors": "https://civitai.com/api/download/models/1134119?token=55949e56b298767db9ad274861e6b6b6",
         "z.safetensors": "https://civitai.com/api/download/models/386944?token=55949e56b298767db9ad274861e6b6b6",
         "mech2.safetensors": "https://civitai.com/api/download/models/455875?token=55949e56b298767db9ad274861e6b6b6"
     },
