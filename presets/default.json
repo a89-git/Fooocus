@@ -51,7 +51,7 @@
         "BP.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/brxpalvin.safetensors",
         "BP_half.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/barxpalvin_half.safetensors",
         "kendal.safetensors": "https://civitai.com/api/download/models/302996?token=55949e56b298767db9ad274861e6b6b6",
-        "sks_cara.safetensors": "https://civitai.com/api/download/models/56113?token=55949e56b298767db9ad274861e6b6b6",
+        "cara.safetensors": "https://civitai.com/api/download/models/200410?token=55949e56b298767db9ad274861e6b6b6",
         "jenxcnnlly.safetensors": "https://civitai.com/api/download/models/672250?token=55949e56b298767db9ad274861e6b6b6",
         "alba.safetensors": "https://civitai.com/api/download/models/372986?token=55949e56b298767db9ad274861e6b6b6",
         "alexdadd.safetensors": "https://civitai.com/api/download/models/1134119?token=55949e56b298767db9ad274861e6b6b6",
