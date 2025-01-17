@@ -56,6 +56,7 @@
         "alba.safetensors": "https://civitai.com/api/download/models/372986?token=55949e56b298767db9ad274861e6b6b6",
         "alexdadd.safetensors": "https://civitai.com/api/download/models/1134119?token=55949e56b298767db9ad274861e6b6b6",
         "z.safetensors": "https://civitai.com/api/download/models/386944?token=55949e56b298767db9ad274861e6b6b6",
+        "ss.safetensors": "https://civitai.com/api/download/models/133630?token=55949e56b298767db9ad274861e6b6b6",
         "mech2.safetensors": "https://civitai.com/api/download/models/455875?token=55949e56b298767db9ad274861e6b6b6"
     },
     "previous_default_models": [
