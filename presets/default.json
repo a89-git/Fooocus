@@ -43,7 +43,7 @@
     "checkpoint_downloads": {
          "CyberReality.safetensors": "https://civitai.com/api/download/models/1198781?token=55949e56b298767db9ad274861e6b6b6",
          "JuggernautXI.safetensors": "https://civitai.com/api/download/models/782002?token=55949e56b298767db9ad274861e6b6b6",
-         "Araminta_xp.safetensors": "https://civitai.com/api/download/models/1286901?token=55949e56b298767db9ad274861e6b6b6"
+         "Realism_refiner.safetensors": "https://civitai.com/api/download/models/1196931?token=55949e56b298767db9ad274861e6b6b6"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
