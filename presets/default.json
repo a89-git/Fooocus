@@ -41,9 +41,10 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": 30,
     "checkpoint_downloads": {
-         "CyberReality.safetensors": "https://civitai.com/api/download/models/1457203?token=55949e56b298767db9ad274861e6b6b6",
+         "CyberReality.safetensors": "https://civitai.com/api/download/models/1609607?token=55949e56b298767db9ad274861e6b6b6",
          "JuggernautXI.safetensors": "https://civitai.com/api/download/models/782002?token=55949e56b298767db9ad274861e6b6b6",
-         "Lustify.safetensors": "https://civitai.com/api/download/models/1569593?token=55949e56b298767db9ad274861e6b6b6"
+         "Lustify.safetensors": "https://civitai.com/api/download/models/1569593?token=55949e56b298767db9ad274861e6b6b6",
+         "BigLove.safetensors": "https://civitai.com/api/download/models/159059?token=55949e56b298767db9ad274861e6b6b6"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
