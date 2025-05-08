@@ -42,7 +42,7 @@
     "default_overwrite_step": 30,
     "checkpoint_downloads": {
          "CyberReality.safetensors": "https://civitai.com/api/download/models/1609607?token=55949e56b298767db9ad274861e6b6b6",
-         "JuggernautXI.safetensors": "https://civitai.com/api/download/models/782002?token=55949e56b298767db9ad274861e6b6b6",
+         "Juggernaut_Ragnarok.safetensors": "https://civitai.com/api/download/models/1759168?token=55949e56b298767db9ad274861e6b6b6",
          "Lustify.safetensors": "https://civitai.com/api/download/models/1569593?token=55949e56b298767db9ad274861e6b6b6",
          "BigLove.safetensors": "https://civitai.com/api/download/models/1590591?token=55949e56b298767db9ad274861e6b6b6"
     },
