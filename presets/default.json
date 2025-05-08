@@ -1,5 +1,5 @@
 {
-    "default_model": "CyberReality.safetensors",
+    "default_model": "CyberReality5.6.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
