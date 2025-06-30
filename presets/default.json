@@ -53,6 +53,7 @@
         "BP.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/brxpalvin.safetensors",
         "BP_half.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/barxpalvin_half.safetensors",
         "StarCitizen.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/starcitizen.safetensors",
+        "BPXL.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/BPXL.safetensors",
         "Kendall Jenner.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/KJXL.safetensors",
         "cum.safetensors": "https://civitai.com/api/download/models/973977?token=55949e56b298767db9ad274861e6b6b6",
         "bbc.safetensors": "https://civitai.com/api/download/models/569466?token=55949e56b298767db9ad274861e6b6b6",
