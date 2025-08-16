@@ -41,12 +41,17 @@
     "default_aspect_ratio": "832*1216",
     "default_overwrite_step": 30,
     "checkpoint_downloads": {
-         "CyberReality5.7.safetensors": "https://civitai.com/api/download/models/1766318?token=55949e56b298767db9ad274861e6b6b6",
-         "Juggernaut_Ragnarok.safetensors": "https://civitai.com/api/download/models/1759168?token=55949e56b298767db9ad274861e6b6b6",
-         "Lustify.safetensors": "https://civitai.com/api/download/models/1569593?token=55949e56b298767db9ad274861e6b6b6",
-         "RealizumXL.V2.safetensors": "https://civitai.com/api/download/models/1965610?token=55949e56b298767db9ad274861e6b6b6",
-         "BigLove4.safetensors": "https://civitai.com/api/download/models/1990969?token=55949e56b298767db9ad274861e6b6b6"
+         "Juggernaut_Ragnarok.safetensors": "https://huggingface.co/maxborland/juggernautXL_ragnarokBy.safetensors/resolve/main/juggernautXL_ragnarokBy.safetensors",
+         "Lustify.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/lustSDXL.safetensors",
+         "RealizumXL.V2.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/realizum2.safetensors",
     },
+    // "checkpoint_downloads": {
+//      "CyberReality5.7.safetensors": "https://civitai.com/api/download/models/1766318?token=55949e56b298767db9ad274861e6b6b6",
+//      "Juggernaut_Ragnarok.safetensors": "https://civitai.com/api/download/models/1759168?token=55949e56b298767db9ad274861e6b6b6",
+//      "Lustify.safetensors": "https://civitai.com/api/download/models/1569593?token=55949e56b298767db9ad274861e6b6b6",
+//      "RealizumXL.V2.safetensors": "https://civitai.com/api/download/models/1965610?token=55949e56b298767db9ad274861e6b6b6",
+//      "BigLove4.safetensors": "https://civitai.com/api/download/models/1990969?token=55949e56b298767db9ad274861e6b6b6"
+// },
     "embeddings_downloads": {},
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
