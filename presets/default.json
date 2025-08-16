@@ -43,7 +43,7 @@
     "checkpoint_downloads": {
          "Juggernaut_Ragnarok.safetensors": "https://huggingface.co/maxborland/juggernautXL_ragnarokBy.safetensors/resolve/main/juggernautXL_ragnarokBy.safetensors",
          "Lustify.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/lustSDXL.safetensors",
-         "RealizumXL.V2.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/realizum2.safetensors",
+         "RealizumXL.V2.safetensors": "https://huggingface.co/muciz/iseng/resolve/main/realizum2.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
